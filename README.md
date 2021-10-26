@@ -16,6 +16,7 @@
 
 
 ![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false=500x250)
+[![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlatorraca)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/rlatorraca?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/rlatorraca)
