@@ -1,4 +1,4 @@
-[![english](https://img.shields.io/badge/Language-English-red) (:uk: :us:)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![english](https://img.shields.io/badge/Language-English-red)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
 [![francais](https://img.shields.io/badge/Language-fran%C3%A7ais-blue)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
 
