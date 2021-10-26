@@ -1,4 +1,4 @@
-# Hi There, I'm Rodrigo Pires 👋
+# Hi There, I'm Rodrigo Latorraca S Pires 👋
 
 - 🔭 I’m currently working as Software Engineer [@CRA](https://www.cra-arc.gc.ca/)
 - 🌱 I’ve been learning about Quarkus, Machine Learning and Data Science
