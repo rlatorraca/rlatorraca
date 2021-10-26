@@ -11,7 +11,9 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
+![alt-text-2](image2.png "title-2")
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&show_icons=true&theme=radical)
+![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false" alt="rlatorraca's readme streaks")
 
 [![GitHub Followers](https://img.shields.io/github/followers/rlatorraca?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/rlatorraca)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rodrigo-ls-pires/)
