@@ -12,7 +12,11 @@
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&show_icons=true&theme=radical)
+![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact)
+
+
 ![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false)
+
 
 [![GitHub Followers](https://img.shields.io/github/followers/rlatorraca?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/rlatorraca)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/rodrigo-ls-pires/)
