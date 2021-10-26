@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
-![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&show_icons=true&theme=radical=500x250)
+![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&show_icons=true&theme=dracula=500x250)
 ![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact=500x250)
 
 
