@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&theme=dracula&show_icons=true)
-![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&theme=dracula&layout=compact=500x250)
+![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&theme=dracula&layout=compact)
 
 
 ![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false=500x250)
