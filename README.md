@@ -1,3 +1,10 @@
+[!--lang:en--]
+English
+[!--lang:fr--]
+Francais
+[!--lang:pt--]
+Português
+
 # Hi There, I'm Rodrigo Latorraca S Pires 👋
 
 - 🔭 I’m currently working as Software Engineer [@CRA](https://www.cra-arc.gc.ca/)
