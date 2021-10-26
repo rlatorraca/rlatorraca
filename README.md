@@ -14,7 +14,7 @@
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&theme=dracula&show_icons=true)
 ![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false=300x200)
 
-![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&theme=dracula&layout=compact =300x200)
+![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&theme=dracula&layout=compact=200x400)
 ![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlatorraca&theme=dracula&layout=compact=300x200)
 
 
