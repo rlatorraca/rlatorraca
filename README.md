@@ -11,9 +11,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
-- :sweat_smile: Just Smile
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rlatorraca&theme=dracula&show_icons=true=200x100)
 ![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&theme=dracula&layout=compact&hide=jupyter%20notebook)
@@ -28,3 +25,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rlatorraca@gmail.com)
 
+- :sweat_smile: Little random jokes.
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
