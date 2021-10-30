@@ -25,6 +25,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rlatorraca@gmail.com)
 
-- :sweat_smile: Little random jokes.
+- :sweat_smile: Some random jokes.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
