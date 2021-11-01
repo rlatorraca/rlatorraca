@@ -1,5 +1,5 @@
 [![english](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/blob/master/README.md)
-[![francais](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](https://github.com/rlatorraca/rlatorraca/blob/master/README.fr.md)
+[![francais](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-brightgreen)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
 # Hi There, I'm Rodrigo Latorraca S Pires 👋
