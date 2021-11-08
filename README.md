@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as Software Engineer [@CRA](https://www.cra-arc.gc.ca/)
 - 🌱 I’ve been learning about Quarkus, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Social impact open source projects
-- 💬 Ask me about `[Java, Struts2, Spring Environment, Javascript, Angular]` 
+- 💬 Ask me about `[Linux, UNIX, Java, Struts2, Spring Environment, Javascript, Angular, MySQL, PostgreSQL]` 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a lawyer and former guitarist in a metal band.
 
