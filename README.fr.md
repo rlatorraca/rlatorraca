@@ -4,7 +4,7 @@
 
 # Salut, je suis Rodrigo Latorraca S Pires 👋
 - :house_with_garden: Actuellement, J'habite au Canada.
-- 🔭 Je travaille actuellement comme ingénieur logiciel à [@l'ARC](https://www.cra-arc.gc.ca/).
+- 🔭 Je travaille comme ingénieur logiciel à [@l'ARC](https://www.cra-arc.gc.ca/).
 - 🌱 J'ai découvert Quarkus, l'apprentissage automatique et la science des données.
 - 👯 Je cherche à collaborer sur des projets 'open source' à impact social.
 - 💬 ARenseignez-vous sur`[Java, Struts2, Spring Environment, Javascript, Angular]` 
