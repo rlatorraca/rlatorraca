@@ -16,7 +16,7 @@
 ![Rodrigo's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatorraca&langs_count=10&hide=jupyter%20notebook&theme=dracula)
 
 ![Rodrigo's readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=rlatorraca&theme=dracula&hide_border=false)\
-![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlatorraca&langs_count=8&theme=dracula&layout=compact=)
+![Rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlatorraca&langs_count=8&theme=dracula&layout)
 
 
 
