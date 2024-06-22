@@ -1,5 +1,5 @@
-[![Inglés](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/edit/master/README.md)
-[![francês](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](https://github.com/rlatorraca/rlatorraca/edit/master/README.fr.md)
+[![Enslish](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/edit/master/README.md)
+[![français](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](https://github.com/rlatorraca/rlatorraca/edit/master/README.fr.md)
 [![italiano](https://img.shields.io/badge/Language-Italiano-brightgreen)](README.it.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
