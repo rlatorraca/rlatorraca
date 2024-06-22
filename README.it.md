@@ -8,7 +8,7 @@
 - 🌱 Sto studiando e imparando su Quarkus, Machine Learning e Data Science
 - 👯 Cerco di collaborare in progetti open source e di impatto sociale
 - 💬 Chiedimi di `[Java, Struts2, Spring Environment, Javascript, Angular]`
-- 😄 Pronomi: lui/lui/suo
+- 😄 Pronomi: Lui/lui/suo
 - ⚡ Curiosità: Sono avvocato (iscritto all'Ordine degli Avvocati) ed ex chitarrista di una band metal.
 
 
