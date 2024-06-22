@@ -8,7 +8,7 @@
 - 🌱 Eu tenho estudado e aprendendo sobre Quarkus, Aprendizado de Máquina e Ciência de Dados
 - 👯 Eu estou procurando e em busca de colaborar em projetos com o código aberto e de impacto social
 - 💬 Me pergunte sobre `[Java, Struts2, Spring Environment, Javascript, Angular]` 
-- 😄 Pronomes que respondo: ele/seu
+- 😄 Pronomes que respondo: Ele/ele/seu
 - ⚡ Fato interessante: Eu sou advogado (registrado na OAB) e ex-guitarriesta de um banda metal.
 
 
