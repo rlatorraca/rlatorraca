@@ -1,7 +1,7 @@
 [![english](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/blob/master/README.md)
 [![francais](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
-[![italiano](https://img.shields.io/badge/Language-Italiano-green)](README.it.md)
-[![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-brightgreen)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
+[![italiano](https://img.shields.io/badge/Language-Italiano-brightgreen)](README.it.md)
+[![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
 # Hi There, I'm Rodrigo Latorraca  👋
 - :house_with_garden: I've been living in Canada
