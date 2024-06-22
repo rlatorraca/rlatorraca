@@ -1,5 +1,5 @@
 [![english](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/blob/master/README.md)
-[![italiano](https://img.shields.io/badge/Language-Italiano-brightgreen)](README.it.md)
+[![italiano](https://img.shields.io/badge/Language-Italiano-brightgreen)](https://github.com/rlatorraca/rlatorraca/blob/master/README.it.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
 # Salut, je suis Rodrigo Latorraca👋
