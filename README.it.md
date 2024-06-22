@@ -1,6 +1,6 @@
-[![Enslish](https://img.shields.io/badge/Language-English-red)](https://github.com/rlatorraca/rlatorraca/edit/master/README.md)
-[![français](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](https://github.com/rlatorraca/rlatorraca/edit/master/README.fr.md)
-[![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
+[![Enslish](https://img.shields.io/badge/Language-English-red)](README.md)
+[![français](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
+[![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](README.pt-br.md)
 
 # Ciao a tutti, mi chiamo Rodrigo Latorraca 👋
 - :house_with_garden: Attualmente, vivo in Canada.
