@@ -2,7 +2,7 @@
 [![francais](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](https://github.com/rlatorraca/rlatorraca/blob/master/README.fr.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-brightgreen)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
-# Salut, je suis Rodrigo Latorraca S Pires 👋
+# Salut, je suis Rodrigo Latorraca👋
 - :house_with_garden: Actuellement, J'habite au Canada.
 - 🔭 Je travaille comme ingénieur logiciel à [@l'ARC](https://www.cra-arc.gc.ca/).
 - 🌱 J'ai découvert Quarkus, l'apprentissage automatique et la science des données.
