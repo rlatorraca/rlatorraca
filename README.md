@@ -2,7 +2,7 @@
 [![francais](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
 [![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-brightgreen)](https://github.com/rlatorraca/rlatorraca/blob/master/README.pt-br.md)
 
-# Hi There, I'm Rodrigo Latorraca S Pires 👋
+# Hi There, I'm Rodrigo Latorraca  👋
 - :house_with_garden: I've been living in Canada
 - 🔭 I’m currently working as Software Engineer [@CRA](https://www.cra-arc.gc.ca/)
 - 🌱 I’ve been learning about Quarkus, Machine Learning and Data Science
