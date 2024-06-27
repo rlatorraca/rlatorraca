@@ -1,6 +1,6 @@
-[![Enslish](https://img.shields.io/badge/Language-English-red)](README.md)
-[![français](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
-[![pt-br](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](README.pt-br.md)
+[![English](https://img.shields.io/badge/Language-English-red)](README.md)
+[![Français](https://img.shields.io/badge/Language-Fran%C3%A7ais-blue)](README.fr.md)
+[![Português](https://img.shields.io/badge/Language-Portugu%C3%AAs-green)](README.pt-br.md)
 
 # Ciao a tutti, mi chiamo Rodrigo Latorraca 👋
 - :house_with_garden: Attualmente, vivo in Canada.
